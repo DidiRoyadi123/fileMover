@@ -1,4 +1,4 @@
-# Panduan Penggunaan Skrip `Mover.bat`
+# Panduan Penggunaan Skrip `OtoMover.bat`
 
 Skrip OtoMover adalah skrip batch Windows yang digunakan untuk memindahkan file dan mengeluarkan file dari subfolder ke folder tujuan secara otomatis dan mudah. Skrip ini memiliki dua fitur utama: pemindahan file ke folder dan pengeluaran file dari subfolder ke folder utama.
 
@@ -15,7 +15,7 @@ Sebelum menjalankan skrip, pastikan Anda memiliki file `.bat` yang disalin ke da
 
 ### 2. Menjalankan Skrip
 
-- Klik dua kali pada file `Mover.bat` untuk menjalankannya.
+- Klik dua kali pada file `OtoMover.bat` untuk menjalankannya.
 - Menu utama akan muncul seperti di bawah ini:
 
     ```
@@ -101,7 +101,7 @@ Untuk keluar dari skrip, pilih opsi **0. Keluar** pada menu utama.
 
 ## Contoh Alur Penggunaan Skrip
 
-1. Jalankan skrip `Mover.bat`.
+1. Jalankan skrip `OtoMover.bat`.
 2. Pilih **1. Pemindah File ke Folder**.
 3. Masukkan folder sumber, ekstensi file (misalnya `mp4`), dan jumlah file per folder (misalnya `20`).
 4. Masukkan nama folder tujuan dasar (misalnya `bcl`).
@@ -116,4 +116,4 @@ Untuk keluar dari skrip, pilih opsi **0. Keluar** pada menu utama.
 
 ---
 
-Dengan mengikuti panduan ini, Anda dapat menggunakan skrip `Mover.bat` untuk memindahkan file dan mengeluar file dari subfolder ke folder tujuan dengan mudah.
+Dengan mengikuti panduan ini, Anda dapat menggunakan skrip `OtoMover.bat` untuk memindahkan file dan mengeluar file dari subfolder ke folder tujuan dengan mudah.
