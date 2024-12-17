@@ -1,6 +1,6 @@
 # Panduan Penggunaan Skrip `Mover.bat`
 
-Skrip `Mover.bat` adalah skrip batch Windows yang digunakan untuk memindahkan file dan mengeluarkan file dari subfolder ke folder tujuan secara otomatis dan mudah. Skrip ini memiliki dua fitur utama: pemindahan file ke folder dan pengeluaran file dari subfolder ke folder utama.
+Skrip OtoMover adalah skrip batch Windows yang digunakan untuk memindahkan file dan mengeluarkan file dari subfolder ke folder tujuan secara otomatis dan mudah. Skrip ini memiliki dua fitur utama: pemindahan file ke folder dan pengeluaran file dari subfolder ke folder utama.
 
 ## Fitur Skrip
 
